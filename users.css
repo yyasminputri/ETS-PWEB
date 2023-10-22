@@ -1,0 +1,22 @@
+body {
+    background-image: url('background.gif');
+    text-align: center;
+}
+
+table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-collapse: collapse;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    margin: 20px auto;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+th {
+    background-color: rgb(255, 255, 255);
+}
